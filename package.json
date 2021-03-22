@@ -1,0 +1,12 @@
+{
+    "name": "minimal",
+    "private": true,
+    "scripts": {
+        "dev": "rollup -c"
+    },
+    "devDependencies": {
+        "rollup": "~2.20.0",
+        "rollup-plugin-chrome-extension": "^3.5.4"
+    },
+    "dependencies": {}
+}
