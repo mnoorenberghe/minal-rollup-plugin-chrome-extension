@@ -6,7 +6,7 @@
     },
     "devDependencies": {
         "rollup": "~2.20.0",
-        "rollup-plugin-chrome-extension": "^3.5.4"
+        "rollup-plugin-chrome-extension": "~3.4.0"
     },
     "dependencies": {}
 }
